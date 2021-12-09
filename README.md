@@ -2,6 +2,10 @@
 
 Flutter search bar
 
+Demo video
+
+https://user-images.githubusercontent.com/73890321/145425582-1830c878-0791-4c8f-bbdb-b00437ba7065.mp4
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
